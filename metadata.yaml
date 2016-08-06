@@ -1,0 +1,29 @@
+_repo: Female-Scripture-Biography-Volume-I_9782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cox, F. A. (Francis Augustus)
+    alias: Cox, Francis Augustus
+    birthdate: 1783
+    deathdate: 1853
+    gutenberg_agent_id: '3135'
+    url: http://www.gutenberg.org/2009/agents/3135
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Augustus_Cox
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcc 'HQ'
+- !lcsh 'Women -- Religious life'
+- !lcsh 'Bible -- Biography'
+- !lcsh 'Women in the Bible'
+- GITenberg
+title: Female Scripture Biography, Volume I
+url: http://www.gutenberg.org/ebooks/9782
